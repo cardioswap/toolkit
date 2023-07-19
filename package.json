@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cardioswap/cardio-toolkit.git"
+    "url": "git+https://github.com/cardioswap/toolkit.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cardioswap/pancake-toolkit/issues"
+    "url": "https://github.com/cardioswap/toolkit/issues"
   },
-  "homepage": "https://github.com/cardioswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/cardioswap/toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
